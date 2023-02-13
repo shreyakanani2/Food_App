@@ -7,7 +7,7 @@ const DUMMY_MEALS = [
         id: 'm1',
         name: 'PavBhaji',
         description: 'Finest veggies and spices',
-        price: 7.99,
+        price: 8,
     },
     {
         id: 'm2',
@@ -19,13 +19,13 @@ const DUMMY_MEALS = [
         id: 'm3',
         name: 'Gulabjamun',
         description: 'Indian, raw, sweet',
-        price: 2.99,
+        price: 3,
     },
     {
         id: 'm4',
         name: 'Green Bowl',
         description: 'Healthy...and green...',
-        price: 9.99,
+        price: 8,
     },
 ];
 
